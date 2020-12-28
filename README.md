@@ -18,19 +18,16 @@ in the database can be used to derive insights and reporting purposes.
 
 <h2> Installation and Local Execution </h2>
 
-<ol>
-1) Create a new environment on your local machine and activate it </ol>
-<ol>	
-2) Install python 3.7.4 in the new python environment</ol>
-<ol>
-3) Install Airflow 1.10.12 in the new python environment along with CeleryWorker and RabbitMq</ol>
-<ol>
-4) Set up database for airflow </ol>
-</ol>
-5) Open terminal, start airflow webserver, worker and scheduler</ol>
-</ol>
-6) Set up connection for MySQL in Airflow </ol>
-</ol>
-6) Got to http://localhost:8080 and trigger DAG run_zomato_api
+<ol>1) Create a new environment on your local machine and activate it </ol>
 
-</ol>
+<ol>	2) Install python 3.7.4 in the new python environment</ol>
+
+<ol>3) Install Airflow 1.10.12 in the new python environment along with CeleryWorker and RabbitMq</ol>
+
+<ol>4) Set up database for airflow </ol>
+
+</ol>5) Open terminal, start airflow webserver, worker and scheduler</ol>
+
+</ol>6) Set up connection for MySQL in Airflow </ol>
+
+</ol>7) Got to http://localhost:8080 and trigger DAG run_zomato_api</ol>

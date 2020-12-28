@@ -1,10 +1,10 @@
-<h1> Zomato Database Project </h1>
+<h2> Zomato Database Project </h2>
 
 The goal of this project is to develop a datapipeline which extracts, transforms and loads data from Zomato API to the database in MySQL.
 The database contains top 100 restaurants in Mumbai with their location, reservations, delivery and rating details. Data stored 
 in the database can be used to derive insights and reporting purposes.
 
-<h1> Project Architecture </h1>
+<h2> Project Architecture </h2>
 
 
 <ol>1) Airflow retrieves JSON data from Zomato API and stores it in a file locally once the dag run_zomato_api is triggered
@@ -12,13 +12,13 @@ in the database can be used to derive insights and reporting purposes.
 3) Data is loaded in each of the six tables in the database schema after appropriate transformations have been applied through Airflow python callables
 4) Validation checks are performed on the loaded tables to comply with data quality checks</ol>
 
-<h1> Database ER Diagram </h1>
+<h2> Database ER Diagram </h2>
 
-<h1> Airflow DAG Graph View </h1>
+<h2> Airflow DAG Graph View </h2>
 
-<h1> Installation and Local Execution </h1>
+<h2> Installation and Local Execution </h2>
 
-<ol>1) Create a new environment on your local machine and activate it:
+<ol>1) Create a new environment on your local machine and activate it
 	
 2) Install python 3.7.4 in the new python environment
 

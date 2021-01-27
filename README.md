@@ -14,7 +14,7 @@ in the database can be used to derive insights and reporting purposes.
 
 <h2> Database ER Diagram </h2>
 
-![ERD](https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.pdf?raw=true)
+![ERD](https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.jpg)
 
 <h2> Installation and Local Execution </h2>
 

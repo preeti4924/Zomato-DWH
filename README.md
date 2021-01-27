@@ -1,8 +1,7 @@
-<h2> Zomato Database Project </h2>
+<h2> Zomato Datawarehouse Project </h2>
 
-The goal of this project is to develop a datapipeline which extracts, transforms and loads data from Zomato API to the database in MySQL.
-The database contains top 100 restaurants in Mumbai with their location, reservations, delivery and rating details. Data stored 
-in the database can be used to derive insights and reporting purposes.
+The goal of this project is to design a datawarehouse which stores data for the top 100 restaurants in Mumbai retrieved through a mobile delivery app Zomato. Apache Airflow is used to extract, transform and load data from Zomato API to the database in MySQL.
+The database contains top 100 restaurants in Mumbai with their location, reservations, delivery and rating details in a star schema (Kimball Architecture). Data stored in the database can be used to derive insights and reporting purposes.
 
 <h2> Project Architecture </h2>
 

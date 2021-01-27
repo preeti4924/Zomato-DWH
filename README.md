@@ -14,8 +14,10 @@ in the database can be used to derive insights and reporting purposes.
 
 <h2> Database ER Diagram </h2>
 ![ERD](https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.jpg)
+
 <h2> Airflow DAG </h2>
 ![DAG](https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow-DAG.jpg)
+
 <h2> Installation and Local Execution </h2>
 
 <ol>1) Create a new environment on your local machine and activate it </ol>

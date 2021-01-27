@@ -13,10 +13,10 @@ in the database can be used to derive insights and reporting purposes.
 <ol>4) Validation checks are performed on the loaded tables to comply with data quality checks</ol>
 
 <h2> Database ER Diagram </h2>
-![ERD](https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.jpg)
+![ERD] (https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.jpg)
 
 <h2> Airflow DAG </h2>
-![DAG](https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow-DAG.jpg)
+![DAG] (https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow-DAG.jpg)
 
 <h2> Installation and Local Execution </h2>
 

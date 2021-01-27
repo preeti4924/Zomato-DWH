@@ -16,7 +16,9 @@ in the database can be used to derive insights and reporting purposes.
 ![ERD] (https://github.com/preeti4924/Zomato-DWH/blob/master/ER-Diagram.jpg)
 
 <h2> Airflow DAG </h2>
-![DAG] (https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow-DAG.jpg)
+<img class="fit-picture"
+     src="https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow-DAG.jpg"
+     alt="Airflow DAG">
 
 <h2> Installation and Local Execution </h2>
 

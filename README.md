@@ -12,7 +12,7 @@ The database contains top 100 restaurants in Mumbai with their location, reserva
 <ol>4) Validation checks are performed on the loaded tables to comply with data quality checks</ol>
 
 <h2> Database ER Diagram </h2>
-<img class="fit-picture" src="https://github.com/preeti4924/Zomato-DWH/blob/master/ER_Diagram.png" alt="ER Diagram">
+<img class="fit-picture" src="https://github.com/preeti4924/Zomato-DWH/blob/master/ER Diagram.png" alt="ER Diagram">
 <h2> Airflow DAG </h2>
 <img class="fit-picture" src="https://github.com/preeti4924/Zomato-DWH/blob/master/Airflow_DAG.png" alt="Airflow DAG">
 <h2> Installation and Local Execution </h2>
